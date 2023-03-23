@@ -1,0 +1,11 @@
+{
+    "bot_tts_config": {
+        "name": "ChatPancake",
+        "lang": "en_US",
+        "voice_name": "en-US-JennyNeural",
+        "speak_rate": "0%",
+        "voice_style": "affectionate",
+        "tts_engine": "azure",
+        "ai_engine": "openai"
+    }
+}

@@ -1,0 +1,11 @@
+telebot
+pydub
+mutagen
+azure.cognitiveservices.speech
+openai
+ffmpeg
+websockets
+prompt_toolkit
+rich
+emoji
+httpx

@@ -1,0 +1,10 @@
+{
+    "api_config": {
+        "telegram_bot_token": "telegram_bot_token",
+        "openapi_key": "openapi_key",
+        "google_api_key": "google_api_key",
+        "google_application_credentials_path": "../GoogleCloud/GOOGLE_CREDENTIALS.json",
+        "azure_api_key": "azure_api_key",
+        "azure_region": "azure_region"
+    }
+}
