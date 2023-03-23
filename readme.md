@@ -9,7 +9,7 @@
 A [Telegram bot](https://core.telegram.org/bots/api) that integrates with OpenAI's _official_ [ChatGPT](https://openai.com/blog/chatgpt/) APIs to provide answers. Ready to use with minimal configuration required.
 
 ## Screenshots
-![demo](https://github.com/bfpizhou/ChatPancake_Telegram_bot/blob/main/Screenshots.png)
+![demo](https://github.com/bfpizhou/ChatPancake_TelegramBot/blob/main/Screenshots.png)
 
 ## Features
 - [x] Humor chat bot
