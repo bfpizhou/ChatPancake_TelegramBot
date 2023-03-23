@@ -31,8 +31,8 @@ About EdgeAI Check out the [Reverse engineered API of Microsoft's Bing Chat](htt
 Clone the repository and navigate to the project directory:
 
 ```shell
-git clone https://github.com/bfpizhou/ChatPancake_Telegram_bot.git
-cd ChatPancake_Telegram_bot
+git clone https://github.com/bfpizhou/ChatPancake_TelegramBot.git
+cd ChatPancake_TelegramBot
 ```
 
 #### From Source
